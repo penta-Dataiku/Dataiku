@@ -49,7 +49,7 @@
 
 #### 1-4. Scenario Config
 
-![scenario_config](.\image\scenario_config.PNG)
+![scenario_config](./image/scenario_config.PNG)
 
 
 
