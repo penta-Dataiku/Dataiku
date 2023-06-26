@@ -8,12 +8,6 @@
 - DEV ENVIRONMENT : 개발환경                     PROD ENVIRONMENT : 배포된 환경
 - ![MLOps_architecture](./image/node.PNG)
 
-#### 1-2. Scenario Types
-
-##### 1-2-1. step-based
-
-- 시나리오를 Dataiku의 visual Interface로 구성할 수 있음.
-
 ### 2. Dataiku 배포 관련 용어 및 참고 사항
 
 참고 : https://academy.dataiku.com/path/mlops/production-concepts/1140019
